@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo
+
+server:
+  servlet:
+    context-path: /demo
+
+logging:
+  level:
+    root: info
+
